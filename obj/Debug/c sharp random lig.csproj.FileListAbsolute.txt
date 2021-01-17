@@ -1,0 +1,11 @@
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\bin\Debug\c sharp random lig.exe.config
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\bin\Debug\c sharp random lig.exe
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\bin\Debug\c sharp random lig.pdb
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c sharp random lig.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c_sharp_random_lig.Form1.resources
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c_sharp_random_lig.Form2.resources
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c_sharp_random_lig.Properties.Resources.resources
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c sharp random lig.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c sharp random lig.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c sharp random lig.exe
+C:\Users\Windows10\source\repos\c sharp random lig\c sharp random lig\obj\Debug\c sharp random lig.pdb
